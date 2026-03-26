@@ -8,10 +8,13 @@
 
 ## Technologies
 - C++
-
+- 
 ## How to Run
 g++ main.cpp -o student
 ./student
 
 ## Description
-This is a console-based application built using C++ with file handling to manage student records.
+Student Management System (C++)
+Developed a console-based application using C++ to manage student records
+Implemented CRUD operations with file handling
+Designed menu-driven interface for efficient data management
