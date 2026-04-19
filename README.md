@@ -43,7 +43,3 @@ student-management-system/
 
 🏆 Author
 Budigam Nishwitha
-
-📢 Description
-
-This project demonstrates the implementation of a student record management system using object-oriented programming and file handling in C++.
